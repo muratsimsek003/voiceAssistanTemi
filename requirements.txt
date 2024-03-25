@@ -1,0 +1,6 @@
+SpeechRecognition
+transformers
+torch
+streamlit
+audio_recorder_streamlit
+gtts
